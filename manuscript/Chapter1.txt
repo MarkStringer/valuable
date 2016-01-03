@@ -1,0 +1,143 @@
+#VALUABLE: A book about project management
+
+##Managing Projects the right way round
+
+## Introduction
+I run this exercise at the beginning of almost every course that I run on Agile project management.  I'm not quite sure where it originated, but I got it from my friend, and former business partner, Matt Gould.  The exercise is really simple. You divide the people into teams if there's more than about five or six of them.  You give them two pages of flip chart paper and some marker pens.  On the first piece of flip chart paper, you ask them to draw a stick person.  I normally say that this stick person can be of indeterminate gender, or they can definitely make it obvious that it's a man or a woman.  At this point, because we're very early on in the course and people are still being shy, someone normally says "ooh I can't draw" and I have to say "it doesn't have to be a *good* stick person.  Just *any stick person* will do." 
+
+When we've got over that particular hurdle, I'll ask each team to give the stick person a smiley face (some of them have already done that - I've yet to come across a team that without prompting gave the stick person a sad face - when I do, I'm guessing that's going to be a hard few days of training). Then I ask the team to write down as many words and phrases as they can which they associate with a *happy* project - with a project that's going well. I stress that this is a brainstorming type activity.  There are no "wrong" answers. At first there are normally some jokes along the "What's a happy project, I've never worked on one of those" lines. But then they settle to the job and write a bunch of words and phrases.  Almost always, "On-time" and "to-budget" are some of the first things that they write down. I try to get some more things written around the "happy" stick person by asking them what it feels like to work on a happy project, for example - if you've taken a long weekend away from a happy project, long enough to forget slightly that you're working on it, what does it *feel* like to come back to working on that project.  I also ask them to think about what they would notice about a flatmate or a loved one who was working on a "happy project." Finally I ask them to think about what it's like to go for an interview on a project which is a happy project.  What might you notice as you're walking through the office on the way to the conference room where they do the interview?
+
+Then I ask the same people to draw another stick person - this time I ask them to give the stick person a sad face. And then I ask them to write around the stick person with the sad face any words and phrases that they associate with an *unhappy* project, with a project that *isn't* going well.  Often the first things that the teams will write down is "late" and "over-budget." When I ask them how they will feel when coming back to such a project after a long weekend away, the teams often write "dread", "depression."  Often when thinking about what they would notice in a flatmate or partner who was working on an unhappy project "alcoholism" is mentioned, as well as "stress" and "bad temper."
+
+What phrases do most people associate with a successful project? "On-time and to-budget." What phrases do most people associate with an unsuccessful project "Late and over-budget." Is this really a surprise? What might be a surprise is what's missing from these descriptions of successful and unsuccessful projects. Almost never is there any mention of the project being valuable, almost never is there any mention of a customer! Sometimes, just occasionally, there's a mention of money - not in terms of budget, but it terms of *making money.* What's a successful project? One that makes money.
+
+I don't think money is actually the only reason why a project might turn out to be valuable. I've seen projects for publishers, government departments and curiously, even banks, that were successful but were delivering other kinds of value - salvation from loss of face, speedier justice and a more effective system of fraud detection. But money isn't a bad thing to see on the posters that are produced for this activity because mentioning money at least indicates that the business we're about (or should be about) when we're working on projects or managing projects is delivering value.
+
+This book is my attempt to write the kind of book about project management that I'd like to read. A book that acknowledges the messy, vague, emotional and exhausting nature of project management.  It came to me when I was sitting on a bus a few years ago that all the books about project management talk about how to do project management correctly. This seemed to be me to very unhelpful for the many people (including myself) who were faced with managing projects that weren't being managed correctly. A lot of what was wrong with those project was simply out of my control.
+
+Most projects start out with a vague idea of what the true requirements are.  They almost always have "aggressive timescales".  In fact, almost every project that I've ever worked on has been set up temporally, financially and contractually in a way that almost prohibits success. Almost. Most of these projects have ultimately ended up being late, over-budget and *valuable* for their customers.
+
+This book is an attempt to get away from slick slogans, deceptive line-and-box diagrams and simple solutions. It's an attempt to demonstrate some of the complexity of project management, without being overly complex itself. The hope is by pointing out some of these complexities I can answer some of the questions that many project managers, I'm sure, ask themselves in the darkest quietest hours of the night, namely: "why is project management so hard?" and "is there anything I can do about it."
+
+Fortunately, I think there are pretty good answers to both of these
+questions. 
+
+My strategy for producing this book is going to be to write it as fast as possible and, for now, to avoid worrying about whether the various chapters join up to make a whole.
+
+I'm also going to avoid worry about (I'm adding to the list as they come up as I'm writing)
+
+* writing something that makes me sound "weird and unprofessional."
+
+* writing something that might meant that I never get another job in project management.
+
+* writing something that someone of "scientific" frame of mind might argue can't be proven.
+
+* using English idioms (and spelling) which mean that this book might not sell so well in America
+
+* any other crap that my subconscious might throw up to stop me getting an writing this
+
+* for now, I won't worry too much about getting the punctuation perfect (although later, I'll try to go back and at least avoid any schoolboy howlers).
+
+##[STONE]Commitment and Consistency
+I was working as a ScrumMaster (I want to say "in a cocktail bar", but that much isn't true) in a start-up.  It was a good company to work for.  It had no set working hours.  It had no place that you had to be working from.  The directors empowered the employees to spend the money they needed (and claim it back as expenses) to get the job done.  They were very enthusiastic about Agile, and that was one of the reasons that they'd bought me in, they'd tried to run something like Scrum and then realised they needed a Scrum Master who knew who'd done in already.  There were some bubbling under issues that I never really got to the bottom off.  One of the three directors was in the process of being removed by the other two directors, always a messy process. And they had brought in a new chairman - let's call him George, who as well as  working for this company ran several of his own.
+
+There were two worries that I had about George.  Firstly, out of the corner of my eye, I could tell he was bullying the sales guy, making him work very long days, asking him to write and re-write things. I had a lot of work to do being a Scrum Master, and sales wasn't really my area, so there wasn't much I could do about that, except notice it out of the corner of my eye and think that at some point, when my standing had increased, I might have to get more involved.
+ 
+The other thing was that he was asking me to give him a "Gantt" for the project that I was working on with him - the Big Hospital Publishing Project. I'm a Scrum Master, I don't do Gantt.
+
+Look I'm trying to work up to this, and that's not working. Maybe as a result of my Scrum Master outlook, maybe as a result of recently reading about commitment and consistency, maybe as a result of both, George and I got involved in two car crash meetings. And like with a real car crash, I don't have full recall of the events of those meetings.  Emotions were running so high, I only have fragments of recall, that I can piece together. At George's insistence, I had put something together like a "Gantt" (or my understanding of a Gantt chart).  But, using my Scrum Master thinking, I'd only detailed it for the first twenty-five percent of the project. The rest of the project, I'd left in big lumps with high-level labels.
+
+In theory, the project was blessed because it had involvement of someone from the client side who actually wanted the project to happen. Let's call here Jane. So we had a meeting where I went through the Gantt with George and Jane. As I said, it was a car crash. I'm not quite sure what happened. I think what probably happened was that I used a Gantt chart to create exactly the opposite impression to Jane than the one that George wanted.  I think that I probably made it clear that the project was an inherently risky and uncertain endeavour that would take far longer than Jane was expecting (and therefore would cost far more than she expected).
+
+And then I think after the meeting George rang me up and... Look. There's this seen in the movie "Glengarry Glenn Ross" where the Al Pacino character (Roma) is trying to stop a customer from asking for his money back from a land deal. Roma says that that's going to be difficult because the forms have already been sent to the office downtown. The Kevin Spacey character, Williamson, who is the office manager, just catches the end of the conversation and tells the customer that oh no, he needn't worry, the paper work is still there in the office. The customer gets his paperwork back and goes away relieved.  Roma isn't so relieved. He says this:
+
+>Roma: You stupid fuckin' cunt. You, Williamson; I'm talkin' to you, shithead. You just cost me six thousand dollars, six thousand dollars and one Cadillac. That's right. What are you gonna do about it? What are you gonna do about it, asshole, you fuckin' shit? Where did ya learn your trade, ya stupid fuckin' cunt, you idiot? Who ever told you that you could work with men?
+
+This is similar to the sentiment of George when he rang me after the phone meeting with Jane. It seemed that I'd broken some fundamental rule of client-supplier relations. I'd made it clear how vague the project was and how long it was likely to take.
+
+When George rang me afterwards, again, I'm not sure exactly what I said. But I think I probably cheerfully acknowledged that the project was going to take far longer than we'd initially expected. This was in 2011, by that time in my career I'd been engaged in continuous gainful employment for seventeen years, and at the end of that conversation George did something that nobody in those seventeen years had ever done to me before - he hung up on me. 
+
+A week went by. I think over that week George probably pushed me again for a "more detailed Gantt". And I might have responded with a "Gantt" that was more detailed at the beginning (I remember something about having to plan user workshops) and so push any credible deadline even further out and then was as vague as it had ever been about the final stages of the project - how could it have been anything else?
+
+And then we had another meeting on the phone to discuss the project. I think we might have gone through the list of impediments/blockers that I'd identified and come up some next actions for each - and assigned them to people. And then George explained to us how important it was that the project was delivered on time and suggested that now we'd addressed all the points on my "impediments/blockers" list (we hadn't - mostly we'd agreed to take the next step towards investigating them).  Suggest that we went round the (imaginary because we were all on the phone) table and commit to delivering the project on time.
+
+We went round the virtual table.  Developers, UI designers - who were the people on the call, all dutifully swore that they would deliver the project on time. 
+
+I dunno.  Maybe I read "Catch 22" at an impressionable age. But I remember vividly the "Glorious Loyalty Oath Crusade" instigated by Captain Black, how Captain Black insists that the men (who he hates) sign a loyalty pledge before each meal and how the whole thing is only stopped by a Major (Major Blank de Coverly) so fearsome that nobody dare ask his name simply shouting "Gimme Eat!" in the mess hall.
+
+Well, I was about to do just that. When it came round to me, I said that I didn't think I couldn't commit to delivering the project on time. The issues that we'd talked about weren't resolved - we'd only agreed to look at them further. I also pointed out that our *actual velocity* in arranging the user workshops that we needed to start the project was about half what we'd initially predicted. Guess what? George hung up on me again.
+
+I think now I have a better understanding of why George hung up on me, and also, an understanding of how I might have handled the whole situation better.
+
+George was a consummate sociopath.  In the words of the other directors of Grill who hired him, he "got things done." The key thing to understand about sociopaths is that they're willing to gamble.  The reason they're willing to gamble is that it's not their resources that they're gambling with, but they know they can be smart enough to take the credit and the rewards if things go well, and avoid the blame if things go badly.
+
+A crucial part of George not getting the blame, was making sure that the development team and I had committed to delivering the project. When the project didn't deliver "On Time" (i.e. to the impossible timescales that we were already telling him weren't possible) George would act disappointed. Also, part of the way that George "got things done" was by bulling the people who worked for him.
+
+But I think this whole situation would have gone better if we hadn't been on the end of a phone.
+
+Writing about George reminds me of another couple of incidents where I've tried to avoid commitment (see how bad that sounds?).
+
+When I worked for a big publishing company on the release of their website, my boss, an extremely forceful, tiny (even by my standards) Irishman named Connor had a commitment and consistency trick that he would play on the team. At the end of a meeting, probably a meeting where lots of difficulties and barriers to delivering a project on time had been discussed, Connor would ask everyone at the table to give their score for how positive they were that the project could deliver on time. Five was very positive, one was very negative. Before letting anyone answer, Connor would then probably explain how important it was to be positive about the project. Then he would start going round the table with the person that he thought most likely to give the project a five. Of course, the average for the group would be somewhere around 4.5, with Connor showing himself to be very concerned when anyone said less than a 5, often asking them why they hadn't scored a 5, even if they had scored a 4. Very often, Connor would even manage to talk team members who gave a 4 into giving a 5.  And of course, then he would get round to me. And depending on how bleak things were, I would be forced to say either a 2 or a 1. Connor's reaction to my low confidence score would vary. I think earlier on in our relationship, he would probably get angry and try to talk me up. Sometimes even saying something like "I think from what Mark's just said, even though he says a 2 he really means a 3 or a 4". When we'd got to know each other a bit better, he would just laugh it off in front of the rest of the team "Yes, Mark, we know you're a pessimist."
+
+Then, one time, I lost my patience with Connor's "confidence score" pantomime. I think this was Connor's attempt at getting around an extremely careful attempt by myself and another Scrum Master to get the backlog that was agreed for a major delivery date reduced by twenty percent. In a room with just the two of us and the actual data on our actual velocity, Connor had had no choice but to agree that twenty percent of the items on the backlog weren't likely to make it for the agreed release date.
+
+But later in the day, Connor called a meeting with the team to get their confidence score.
+
+After we'd been through the whole ritual and the rest of the team had left, I talked to him privately and told him that I never wanted him to do the confidence routine with the team ever again. When he asked why I talked him through how he was manufacturing a fake commitment and deliberately creating a false expectation of how the project would do. The result of which would be a totally fake disappointment that the team hadn't delivered.
+
+Connor was furious. In the year and half or so that I worked with him, the angriest that I've ever seen him. In fact, he probably looked as angry as George would have been, if I'd been able to see him rather than just hear him throw the phone down. Why were they so filled with rage? Because, by calling them on their commitment and consistency manoeuvres (and spotting that they *were* commitment and consistency manoeuvres) I was essentially defanging them.
+
+Taking away the boss-man's big stick? Was that a good idea? Well, I gave up working at Grill because of George, and that was probably a good thing, perhaps coincidentally, perhaps not, so did George.  The other directors at Grill decided that his "can do attitude" wasn't quite what they wanted after all.
+
+We delivered on time at BigPub and that was probably a good thing. But defanging is always a tricky business and refusing to commit to *anything*, because of the awesome power of commitment and consistency feels just terrible.
+
+One view of sociopaths is that they are lazy - too lazy to understand programming, project management, the internet or what's going on around them. In general, I think that laziness is a lazy concept. Personally, I think they're probably a *lot* more complicated than that (although I have managed to create fairly credible sociopath-like behaviour in improv situations, just by creating a master slave relationship). 
+
+Another way of thinking about sociopaths is that they have realised that none of the technical stuff matters so much as the eternal human stuff - the politics. Maybe this is because they found out through trial and error that they weren't too good at the technical stuff.  Maybe this is because they realised (sooner that all the people who surround them who still think that the technical stuff is really important) that how good you are at the technical stuff is irrelevant if you can't deal with the politics.
+
+Another way of thinking about this particular aspect of sociopath behaviour is that they've found a trick that works - manoeuvre your slaves into committing to something that you know that they can't deliver and then ruthlessly exploit their bad feeling to gain concessions, make them work late and absolve yourself of any blame.
+
+Most of the development was done off-shore, in the Czech state and in Poland, but also, in France and we had a UI Designer who was in South Korea.
+
+The feedback I got from them was that having me around really helped.  What I did for them as a Scrum Master was just try to provide as much visibility as possible of what was being worked on and as much visibility as possible on what was coming up. Visibility was the real problem because everybody was working remotely. We used Scrum and sprint planning for the stuff that was being worked on and we used Kanban (and Agile Zen) for the stuff that was coming up.  A lot of what I seemed to be doing was releasing constraints: stuff that isn't development, that has long and uncertain elapsed times - don't put that in the sprint, put that in the Kanban.  
+
+The concept of commitment and consistency is one of the main reasons that project management is so unpleasant. Commitment and consistency are the electric cattle prods of project management. I read all about commitment and consistency in Robert Cialdini's book "Influence: The Psychology of Persuasion".  The basic idea is that we all like to honour our commitments and like to be consistent with what we say in terms of professing beliefs and ethical outlook. Cialdini cites studies that have massively increased the sign-up rates for an onerous task - shaking a tin for charity - simply by ringing them up and asking them one simple question: "Do you think charity is a good thing."
+
+Commitment and Consistency is one of the darkest games that's going on in project management. It's in the nature of the kinds of projects that we undertake when we're doing software development that they are uncertain. It's also (because of the "planning fallacy" that we'll talk about in the chapter about thinking fast and slow) in the nature of planning any task that those undertaking the task will estimate a length of time for completing the task which is near the absolutely most optimistic time for undertaking that task.
+
+Commitment and consistency is a martial art for grown-ups in "civilised" society who aren't allowed to bomb anyone are are just left with talking and dressing up. The game is especially important in master-slave relations where the master is no longer actually allowed to beat the slave. In a tussle between the master and slave in a project (let's say a representative of the developers (slave) and a project manager (master), or a client (master) and a project manager (slave) ) the game is for the master to extract a commitment out of the slave.  The game for the slave is to avoid that commitment without getting fired. Why does the slave want to avoid the commitment? Surely a good slave would be accepting of responsibility. Well, the slave doesn't want to take on the commitment because of the nature of the commitment.
+
+If the commitment from the slave to the master was something of the order of "make sure the house is clean and tidy by the time I get back this evening" it might be reasonable for the slave to agree. If the commitment extracted from the slave is "build me a mansion exactly to my taste and decorated throughout with the most modern furnishings from all over Europe on a budget of pennies, in hurricane season." The slave might want to avoid the commitment.  Most software development projects are nearer the latter kind of commitment.
+
+Not honouring your commitments feels bad (for most people - except sociopaths, of which more later). Not honouring your commitments *looks* bad (for everybody, especially sociopaths, who care most about reputation and appearances). People who feel bad, people who are "on the back foot" (an image take from the game of cricket, alluding to a batsman who has been so surprised by the speed or spin of a ball that he's had to step back to try to defend himself from it - cricket balls are heavy - rather than moving forward onto his "front foot" to hit it out of the ground) aren't so cocky, they are more willing to make concessions, to do as they are told.
+
+##[STONE]We need to Talk about Sociopaths
+Sociopaths are risk takers. They take risks with other people's money and with other people's jobs and livelihoods. They take risks where they have no business taking risks, without doing the proper research or where the proper research simply isn't possible. They encourage others to take these risks by exaggerating the possible benefits and obscuring the possible negative outcomes.  When things go right, they take the credit and reap the rewards.  When things go wrong, they don't blame others - because when things go wrong, they're simply not there. When things go wrong, they make sure that someone else is taking the blame and footing the bill.
+
+Taking risks that they have no business taking? Taking the credit when they have no business taking the credit? Avoiding the blame when their risky endeavours flounder? These people sound very unpleasant and annoying. Why would we ever want people like this around?
+
+Well, that's possibly the most annoying thing about sociopaths. Without them, nothing would get done.  With out these people who have no business taking the risks that they are taking there would be - well, there would be no business.
+
+##[STONE]The Super-Cultured Sociopath
+When I made the list of topics that I was going to write about in this book, somehow, on first pass John Boyd didn't feature. This is a bit strange since Boyd's way of thinking about the world is definitely relevant to a "Fuck it" attitude to project management.  Boyd was a lot of things: fighter pilot, fighter pilot instructor, irritant to the Pentagon, inspiration to the marines, and was most probably the leading thinker about military strategy in the second half of the 20th century.  One of the reasons that Boyd isn't more famous is that he didn't believe in boiling his message down to a few simple slogans - his main form of communication of his ideas was a ponderous slideshow presentation which took more than 8 hours, which he refused to reduce, not for anyone irrespective of rank.  The most memorable and concise aspect of his thinking is something called the OODA loop.  The acronym stands for Observe, Orient, Decide and Act.  Boyd thought that in any military situation any group involved in combat would be going through this series of steps (this is of course a lot like a number of other descriptions of a iterative approach to managing work, such as Deming/Shewart's Plan, Do, Check, Act cycle).
+
+The top-level take away from Boyd's loop is that any combat group that can get round the OODA loop quicker than their enemy will be able to defeat their enemy. Boyd actually went further than that and suggested that any group that could get around the OODA loop faster than their enemy would leave their enemy in confusion - the enemy literally wouldn't know what hit them.
+
+![The OODA Loop](OOdaLoop.png)
+
+But there is an interesting extra level of detail in Boyd's iterative cycle which isn't there in other empirical inspect and adapt cycles.  Inside the second O of the OODA loop - Orient there are a network of 5 aspects for consideration in Orientation:
+* Cultural Traditions
+
+* Genetic Heritage
+
+* Analysis and synthesis
+
+* New Information
+
+* Previous experiences
+
+Boyd understood that it wasn't enough to observe what was going on: the observe phase.  In order to be successful a group had to orient to what was going on - they had to make *sense* of their observations. The education and experience of the observers is very important in determining the likely outcome of the project or expedition.
+
+Elsewhere in this book we talk about how sociopaths are needed to get things done.  They are needed to initially hide the risks and uncertainty surrounding projects so that the projects get started in the first place (the hiding hand). They are needed to polish and overstate the purity, simplicity and quality of the product that the project will deliver (the Fata Morgana). The people who set projects going have to be sociopaths because they need to be willing to take the credit when a project goes well, and avoid the blame when the project fails.
+What's interesting about Boyd's OODA loop is that it also indicates that they need to be educated and smart.
+
