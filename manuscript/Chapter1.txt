@@ -1,7 +1,5 @@
 #VALUABLE: A book about project management
 
-##Managing Projects the right way round
-
 ## Introduction
 I run this exercise at the beginning of almost every course that I run on Agile project management.  I'm not quite sure where it originated, but I got it from my friend, and former business partner, Matt Gould.  The exercise is really simple. You divide the people into teams if there's more than about five or six of them.  You give them two pages of flip chart paper and some marker pens.  On the first piece of flip chart paper, you ask them to draw a stick person.  I normally say that this stick person can be of indeterminate gender, or they can definitely make it obvious that it's a man or a woman.  At this point, because we're very early on in the course and people are still being shy, someone normally says "ooh I can't draw" and I have to say "it doesn't have to be a *good* stick person.  Just *any stick person* will do." 
 
