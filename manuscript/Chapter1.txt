@@ -123,7 +123,7 @@ When I made the list of topics that I was going to write about in this book, som
 
 The top-level take away from Boyd's loop is that any combat group that can get round the OODA loop quicker than their enemy will be able to defeat their enemy. Boyd actually went further than that and suggested that any group that could get around the OODA loop faster than their enemy would leave their enemy in confusion - the enemy literally wouldn't know what hit them.
 
-![The OODA Loop](OOdaLoop.png)
+![The OODA Loop](images/OOdaLoop.png)
 
 But there is an interesting extra level of detail in Boyd's iterative cycle which isn't there in other empirical inspect and adapt cycles.  Inside the second O of the OODA loop - Orient there are a network of 5 aspects for consideration in Orientation:
 * Cultural Traditions
