@@ -1,9 +1,36 @@
 ##The Good Enough Parent
 There's an idea in Freud's writing - the pleasure principle.  The idea is that when we're babies we go through a period where whatever we need is given to us.  When we're hungry we're fed, when we've soiled ourselves, we're cleaned, when we're tired we can go to sleep, when we're awake, we can wake up (even if it's the middle of the night). And this period stops.  For the rest of our lives, we don't always get what we want, when we want and this is very upsetting. I think most of us never get over it.
+
 When I was explaining this to friend of mine Tim Diggins, he pointed me in the direction of D.W. Winnicott and the concept of the "Good Enough Parent." The idea, I think of the "Good Enough Parent" is one that provides enough support for the child to deal with the brutal and uncertain nature of the world, but at the same time, doesn't hide the child from it's brutal and uncertain nature.
+
 The image that came into my mind just then was of that day when the parent decides that they're going to take the stabilisers (trainer wheels) off of the bike and let the child ride without them. There's a kind of memory of this - so clichéd that you might doubt that it actually happened to you, of the parent standing behind the child and holding the saddle and moving the child forward saying to the child "peddle, peddle, I'm holding you." And of course, there's that amazing moment when the child is peddling and moving forward and suddenly realises that their parent can't be holding them. Of course, there's no guarantee that they're not going to fall off immediately after that.  But for a moment there, they were doing it, they were riding the bike, all by them selves.
+
 I remember crying a lot when I learned to ride a bike (it only took an afternoon).  But I also remember that amazing feeling of *balance* of the bike magically moving in the right direction under my control. And I remember my dad being endlessly patient as I was trying to get the hang of it probably saying something like "It's all right, just have a go, I'm holding you, you can do it", and I remember my uncle being impatient and taking a much more "why are you crying? Don't be such a baby." attitude.
+
 I'm wondering if that was what was going on with George, I was being the "Bad Cop" parent with him. "Projects always take longer than you think, they always cost more than you think. There are no guarantees in software development and I'm definitely not giving you one.  If you want a guarantee, buy a toaster." 
+
 And George's reaction was to throw his rattle out of his pram (by throwing the phone down).  Twice.
+
 We could have both probably handled it better.  We were very much in the "storming" phase of our relationship. I suppose it might have been that I'd already got some awareness that George was aggressively and successfully bullying other people in the organisation that made me reluctant to engage.
 
+##The Wreck of An Idea
+"Every novel is the wreck of an idea" - Iris Murdoch
+I didn't get this quote first hand.  I saw a documentary on another novelist - Ian Rankin - and he used it as a source of inspiration.
+
+But I think it's very relevant to software development, project management.  It's the job of the leaders (sociopaths) to have ideas, or to steal ideas.  And it's the job of the leaders (sociopaths) to polish those ideas so that they shine, to turn them into a Fata Morgana an mirage on the horizon that people are prepared to put money into heading towards.  And it's the job of the leaders (sociopaths) to obscure the risks and potential costs of setting sail towards this Fata Morgana.
+
+But of course, once the ship does set sail, stuff goes "wrong". Wrong is one way of thinking about it.  Another way of thinking about it is that stuff that happens in the real world, rather than in the dream world happens. If this is a ship that's setting out to discover distant lands, the crew will get ill, the ship will be becalmed, the short cut to India will turn out to be blocked by a bloody great continent. If this is a software development project, all the real problems that are associated with actually having to write software and actually make it available to be used will present themselves. In software development, these are things that often seem embarrassingly ordinary, mundane (from the Latin mundus - "meaning of the world"). The team can't get into the building because they don't have building passes, the wifi doesn't work.
+
+Of course there can be other, more fundamental problems.  The dream, the idea, the Fata Morgana, might sound great.  It might roll of the tongue, it's clearly motivated somebody to release money to make it happen.  But the detail isn't there.  Or when you look at the detail, you see that there are inherent contractions. Or when you look for the detail, you find that there are competing factions who will provide you with the detail. Or when you look for the detail you find that there are factions that kept quite while the project was being "green lit" but who are sworn to make sure it fails.
+
+Yes, there are some very tricky moments in actually getting a ship to set sail *at all* and there some further tricky moments the minute it leaves the harbour.
+
+And these moments can obviously be very difficult for the leader (sociopath) who persuaded everybody that it was a good idea to have a project that would set off in the direction of this Fata Morgana. And so of course, the leader (sociopath) will try to obscure these difficulties as much as he can and keep burnishing the Fata Morgana to distract from what's actually happening.  But surely, a clever leader (sociopath) would also be doing two other things.
+
+Firstly, he'd be making sure that the team got what they needed to at least have a chance to get where they're going. He'd be paying close attention to what the team is saying that they actually *need* to get things done. Because a smart leader (sociopath) understands that this is the only way anything is actually going to get done.
+
+Secondly he'd be looking at what the team were actually producing to see if there was anything he could celebrate, publicise, burnish.
+
+But maybe the team, and the project manager, Scrum Master should recognise that looking at what is actually produced - the wreck of the idea is always going to be a dangerous, embarrassing and worrying experience for the person who has been making sure that everybody was looking at the Fata Morgana.
+
+Maybe one of the weaknesses of an Agile approach is the false promise that's held out by the phrase "working software". [HERE]
