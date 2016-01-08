@@ -42,3 +42,27 @@ But of course, this wreck of an idea has some massive advantages over the idea. 
 Still, the seductive power of the vision at the beginning of the project can be so powerful that the people who have achieved this thing that actually does work in the real world, and either makes money, or makes people's lives better, can't see it. I've been involved with projects where software has been delivered and the users have fallen on it like a starving crowd. And like a starving crowd, they clamour for more, more features, more performance, broader user base. But when you talk to the people who were involved in the project, they can't see its success, all they can see are the ways in which the project "failed" relative to the initial vision.  It took too long (relative to some initial arbitrary estimate of how long it would take).  It's not performing as well as it should (relative to some arbitrary estimate of how well it should perform - and because it is being heavily used.
 
 But actually, projects like that are successful, compared with project where the focus never moves away from the idea.
+
+##The World According to Saddham Hussein
+>What is politics? Politics is when you say you are going to do one thing while intending to do another. Then you neither do what you said or what you intended.
+
+Quoted in the Guardian 19/03/2003
+
+It seems to me that Saddam is write.  In any project, just like in politics, there are these three descriptions, three ways of looking at what will happen:
+
+###1. What we *say* we’re going to do 
+This involves the vision – the Fata Morgana.  The clean, simple idea capable of motivating large numbers of people. Often the clean simple idea will have in it a concept involving either “same” or “all”. For example “merge all the social security payment systems into one single payment system.” Or “make the process of applying for a loan completely (all) self-service”.
+
+What we *say* we’re going to do is often also included in some kind of bid proposal which accompanies work and is therefore also connected with money.  This is possibly what makes writing bid proposals so hard, because they have to combine the vision that motivates the customer to part with their money with some kind of realistic description of what’s actually going to be done. Having been involved in this process myself, I’ve come to realise that this is from easy.
+
+###2. What we intend to do
+Bizarrely, in many projects, this isn’t clear.  We know at the start of the project that the project isn’t possible in the timescales and costs that have been promised.  If we think about it for one second, we realise that the requirements for the project can’t be realised because they’re simply too vague.
+
+In most projects that we start, in our heart of hearts, we know that the reality is going to be far messier and far more expensive and time-consuming for the client that we care to admit. And one the main reasons for this is that if we did admit how messy, risky and time-consuming a project would be, this would simply scare our clients away. When looking at competing bids, the client would simply go with one that looked clear, and simple.
+
+###3. Neither what you said, nor what you intended.
+In most cases, what actually happens on a project is neither what you said you were going to do, possibly in some kind of bid, nor what you intended. Curiously, what actually happens; how projects actually turn out; how long they *actually* take; how much they *actually* cost; is something that is hardly ever discussed. [HERE]
+
+
+
+
