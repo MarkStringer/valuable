@@ -50,13 +50,13 @@ Quoted in the Guardian 19/03/2003
 
 It seems to me that Saddam is write.  In any project, just like in politics, there are these three descriptions, three ways of looking at what will happen:
 
-###1. What we *say* we’re going to do 
-This involves the vision – the Fata Morgana.  The clean, simple idea capable of motivating large numbers of people. Often the clean simple idea will have in it a concept involving either “same” or “all”. For example “merge all the social security payment systems into one single payment system.” Or “make the process of applying for a loan completely (all) self-service”.
+###1. What we *say* we're going to do 
+This involves the vision – the Fata Morgana.  The clean, simple idea capable of motivating large numbers of people. Often the clean simple idea will have in it a concept involving either "same" or "all". For example "merge all the social security payment systems into one single payment system." Or "make the process of applying for a loan completely (all) self-service".
 
-What we *say* we’re going to do is often also included in some kind of bid proposal which accompanies work and is therefore also connected with money.  This is possibly what makes writing bid proposals so hard, because they have to combine the vision that motivates the customer to part with their money with some kind of realistic description of what’s actually going to be done. Having been involved in this process myself, I’ve come to realise that this is from easy.
+What we *say* we're going to do is often also included in some kind of bid proposal which accompanies work and is therefore also connected with money.  This is possibly what makes writing bid proposals so hard, because they have to combine the vision that motivates the customer to part with their money with some kind of realistic description of what's actually going to be done. Having been involved in this process myself, I've come to realise that this is from easy.
 
 ###2. What we intend to do
-Bizarrely, in many projects, this isn’t clear.  We know at the start of the project that the project isn’t possible in the timescales and costs that have been promised.  If we think about it for one second, we realise that the requirements for the project can’t be realised because they’re simply too vague.
+Bizarrely, in many projects, this isn't clear.  We know at the start of the project that the project isn't possible in the timescales and costs that have been promised.  If we think about it for one second, we realise that the requirements for the project can't be realised because they're simply too vague.
 
 In most projects that we start, in our heart of hearts, we know that the reality is going to be far messier and far more expensive and time-consuming for the client that we care to admit. And one the main reasons for this is that if we did admit how messy, risky and time-consuming a project would be, this would simply scare our clients away. When looking at competing bids, the client would simply go with one that looked clear, and simple.
 
