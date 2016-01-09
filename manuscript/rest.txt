@@ -43,12 +43,12 @@ Still, the seductive power of the vision at the beginning of the project can be 
 
 But actually, projects like that are successful, compared with project where the focus never moves away from the idea.
 
-##The World According to Saddham Hussein
+##The World According to Saddam Hussein or Does your Project Needs a Black Box?
 >What is politics? Politics is when you say you are going to do one thing while intending to do another. Then you neither do what you said or what you intended.
 
 Quoted in the Guardian 19/03/2003
 
-It seems to me that Saddam is write.  In any project, just like in politics, there are these three descriptions, three ways of looking at what will happen:
+It seems to me that Saddam is right.  In any project, just like in politics, there are these three descriptions, three ways of looking at what will happen:
 
 ###1. What we *say* we're going to do 
 This involves the vision – the Fata Morgana.  The clean, simple idea capable of motivating large numbers of people. Often the clean simple idea will have in it a concept involving either "same" or "all". For example "merge all the social security payment systems into one single payment system." Or "make the process of applying for a loan completely (all) self-service".
@@ -61,8 +61,22 @@ Bizarrely, in many projects, this isn't clear.  We know at the start of the proj
 In most projects that we start, in our heart of hearts, we know that the reality is going to be far messier and far more expensive and time-consuming for the client that we care to admit. And one the main reasons for this is that if we did admit how messy, risky and time-consuming a project would be, this would simply scare our clients away. When looking at competing bids, the client would simply go with one that looked clear, and simple.
 
 ###3. Neither what you said, nor what you intended.
-In most cases, what actually happens on a project is neither what you said you were going to do, possibly in some kind of bid, nor what you intended. Curiously, what actually happens; how projects actually turn out; how long they *actually* take; how much they *actually* cost; is something that is hardly ever discussed. [HERE]
+In most cases, what actually happens on a project is neither what you said you were going to do, possibly in some kind of bid, nor what you intended. Curiously, what actually happens; how projects actually turn out; how long they *actually* take; how much they *actually* cost; is something that is hardly ever discussed. 
 
+You might think that people who are involved with software development, or people who pay for software development, would be absolutely fascinated with how software development projects had gone wrong in the past. You might think that the people with money who really want their projects to go well, would be paying fortunes to investigate why previous projects hadn't gone well - think of all the money that goes into airplane crash investigations. And then all the effort that goes into redesigning any parts that fail or changing any safety procedures that seem to be lacking.
 
+Isn't that strange?  That so few people want to look at the projects that have *actually* happened, nobody wants to look at how long things *actually* took compared to how long they were estimated to take. It feels wrong to even mention it, like talking about death, or impotence.
 
+I once worked on a project for a government department.  It was a system that implemented a particular bit of international legislation that re-negotiated every seven years. That meant that every seven years, new software had to be developed to implement the legislation. If the software didn't implement the legislation properly, the government would be fined for every day that it didn't manage to implement the legislation by the international body that it was signatory.  There was big money at stake.
 
+The last two attempts at developing software to meet the legislation had been judged to be a failure. Although, bearing in mind the way that any actual, working software is treated as "The Wreck of an Idea" we might wonder to what degree they had actually been failures when they finally, late and massively over-budget, did start working, collecting data and making payments. 
+
+I do know that one of the "failures" was so bad, that a special sub-committee of the house of commons was formed to hear from the senior officers and I think I heard that an amendment was made to a piece of legislation to make sure that the senior officers in the department who were responsible for the project didn't get their bonuses. Now also sorts of bad stuff can happen, and senior civil servants can deal with it without breaking a sweat.  But when committees and acts of parliament are being rolled out to make sure that they don't get their bonuses? That's pretty serious.
+
+I don't think I ever heard or saw any discussion within this department of what had gone wrong on the previous projects, or any listing of what might be done differently this time.
+ 
+Another weird thing about this is that at the end of every project, certainly every software development project, where the software is actually being *used* you have working software. And if you have working software (if it's going to work for very long) you must also have the *code* for that working software. So people who know about software could go and look at it. There could be such a thing as forensic software architects and project crash investigators.
+
+In some ways, I wish I didn't have to say that you need a "black box" for your projects. But I've seen it happen on so many projects, that I think, in reality you do. Why do you need a black box? Because at some point, because of the way most projects are funded and initiated, you're going to have to negotiate after a catastrophe. The catastrophe comes about when the gap between what's promised in the vision and what's being delivered - what has actually happened, just becomes untenable.
+
+Although there is actually a way of avoiding the need to look back, the need for a black box, the need for forensic software engineers, by focusing all the way through the project on working software.  There is a way to avoid the project crashing, and that's by focusing all the way through the project on improving the "Wreck of the idea" rather than focusing on the idea.
