@@ -80,3 +80,48 @@ Another weird thing about this is that at the end of every project, certainly ev
 In some ways, I wish I didn't have to say that you need a "black box" for your projects. But I've seen it happen on so many projects, that I think, in reality you do. Why do you need a black box? Because at some point, because of the way most projects are funded and initiated, you're going to have to negotiate after a catastrophe. The catastrophe comes about when the gap between what's promised in the vision and what's being delivered - what has actually happened, just becomes untenable.
 
 Although there is actually a way of avoiding the need to look back, the need for a black box, the need for forensic software engineers, by focusing all the way through the project on working software.  There is a way to avoid the project crashing, and that's by focusing all the way through the project on improving the "Wreck of the idea" rather than focusing on the idea.
+
+#Working Software
+>"Any sufficiently advanced technology is indistinguishable from magic"
+Arthur C. Clarke
+
+The value in the Agile manifesto is 
+>"Working Software over detailed documentation."
+
+But working software is perhaps the aspect of Agile thinking which isn't easily contrasted with other, more traditional aspects of project management, or maybe could be contrasted with all of them. Working software over processes and tools? Yes.  Working software over contract negotiation? Yes. Working software over following a plan? Absolutely.
+
+Working software, working software, working software. But the real value of working software isn't really in opposition to any of these things.  The real value of working software is in opposition to *not* working software.  To its absence. Working software is the only thing which can deliver value for the organisation.
+
+But that value isn't often explained correctly to product owners and senior stakeholders. What exactly is the value of working software?
+
+One way to think about working software is that it is a series of tests. Working software can test that a proposed technical solution involving an architecture and collection of packages and languages is feasible.  Working software can also test that the organisation actually has the capability to deliver code into a live, or like-live environment. Working software can test the quality of the understanding all along the chain between the people who need to the software to do something, the people who capture that need, and the people who implement that need. Working software tests all these things.  But working software can itself also be tested.  Working software can be tested on the ultimate beginning and end of the software development process, who is often forgotten - the user. Working software can be performance tested, accessibility tested and penetration tested. And in doing so, working software tests all of this testing.
+
+Working software is powerful stuff. Powerful, and dangerous, threatening. Dangerous to what? Threatening to whom?
+
+###Working software is a threat to the dream
+The vision, the Fata Morgana - the deceiving mirage of the project. Once people see the working software, it may become obvious that the dream and the vision are just that, dreams and visions. Or it may become obvious that the vision *is* realisable, but at far greater cost of money and time than had ever been discussed.
+
+###Working software is a threat to the development team
+At first, working software is very slow to emerge from the development team, and when it does, it's functionality is often limited and bug-ridden. This can be very embarrassing for the development team and very worrying for the product owner, not least because development teams are enormously expensive.
+
+###Working software is a threat to the architects
+Attempts at creating working software can highlight flaws in a proposed architecture and technology stack. Attempts at creating working software can highlight invalid assumptions (the most dramatic example of this that I've ever seen was design for a bank that relied on a transactional database that simply didn't exist).
+
+###Working software is threat to the release team
+The release team might not be ready to release anything. They may not have any environments that can be configured for release. They may simply not have the expertise to release the software. The release team, may well have anticipated that they would have the lifetime of the development project - maybe six to eighteen months to hire the people they needed and put the right facilities in place.
+
+###Working software *might* be a threat to the users
+New software threatens jobs. Often the value calculation for new software is given in terms of the full-time employees that can be let go once the software has been rolled out. New software is often an attempt to automate tasks that were previously done by humans, and often, those people who will be replaced are the ones who are asked to evaluate it.
+
+Even if the users won't be replaced, new software may require them to learn new skills, work in different ways to change.
+
+###Working software is a threat to everyone involved in the project
+Working software is a threat to every individual group within an organisation. In many big commercial and government projects, many of the groups that are threatened work for different companies and so the threat is even more pronounced and the temptation to put off the demonstration of working software in a live, or like-live environment is even more pronounced.
+
+###(When it's done right) working software is a threat to the whole organisation
+[Here]
+
+But collectively, the only way that the organisation can benefit from the software is if it works.
+
+2683
+	
