@@ -119,9 +119,20 @@ Even if the users won't be replaced, new software may require them to learn new 
 Working software is a threat to every individual group within an organisation. In many big commercial and government projects, many of the groups that are threatened work for different companies and so the threat is even more pronounced and the temptation to put off the demonstration of working software in a live, or like-live environment is even more pronounced.
 
 ###(When it's done right) working software is a threat to the whole organisation
+I'm often asked when I'm coaching, especially when I'm coaching one-to-one, where to look for good jobs in Agile. The answer that I normally give is to look for organisations that really need the software, where the benefit of having the software and the need to have the software is obvious to everyone.
+
+But even when it is obvious that software is needed by an organisation, or it is obvious that software would give enormous value to an organisation, that does not mean that actually having working software that people can look at, and even use, isn't a threat to people in the organisation. But collectively, the only way that the organisation can benefit from the software is if it works.
+
+The value and threat of working software is something that simply isn't discussed. And it is very easy, even in an organisation where everyone is agreed that the organisation needs the software and that the software will be valuable to the organisation to have no one who is championing getting working software out of the development environment. Product owners will probably understand the value of getting software to the stage where it can be demonstrated, but will rarely understand the value, or the effort and difficulty involved in getting the software from the point where it can be demonstrated in a development or test environment to the point where it can actually be released.
+
+On many projects, Scrum Masters are the people who most understand the value of an Agile approach to software development and understand the value of working software. but often they aren't in a position to make working software any more likely to happen. They don't have control, or sometimes even influence over things that effect the rate of delivery of working software but happen outside of the development team, such as non-functional testing and operations and release.
+
+Lean is surely supposed to focus on this problem. Surely the main insight of lean is that the value of the individual roles and processes needs to be subsumed to the value of their being smooth flow through the whole process. And maybe this works when the value of what comes out of the end of the process is known (e.g. a car). But in software development, the value of the software that is produced at the end of the process is uncertain. And there are all sorts of other values along the process that can be locally optimised, and are possibly in opposition.
+
+It's in the interests of the non-functional testers to "wait until the software is finished" before they do their tests because this puts off revealing that they have neither tests nor infrastructure on which to run the tests.
+
+It's in the interests of the operations and release teams to avoid having working software on a live or like-live environment.
+
 [Here]
 
-But collectively, the only way that the organisation can benefit from the software is if it works.
-
-2683
-	
+3449	
