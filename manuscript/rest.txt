@@ -129,10 +129,25 @@ On many projects, Scrum Masters are the people who most understand the value of 
 
 Lean is surely supposed to focus on this problem. Surely the main insight of lean is that the value of the individual roles and processes needs to be subsumed to the value of their being smooth flow through the whole process. And maybe this works when the value of what comes out of the end of the process is known (e.g. a car). But in software development, the value of the software that is produced at the end of the process is uncertain. And there are all sorts of other values along the process that can be locally optimised, and are possibly in opposition.
 
-It's in the interests of the non-functional testers to "wait until the software is finished" before they do their tests because this puts off revealing that they have neither tests nor infrastructure on which to run the tests.
+It's in the interests of the non-functional testers to "wait until the software is finished" before they do their tests because this puts off revealing that they have neither tests nor infrastructure on which to run the tests. Although of course, the best way to make sure that any application is non-functionally tested is to do that testing repeatedly on incrementally releases of working software.
 
-It's in the interests of the operations and release teams to avoid having working software on a live or like-live environment.
+It's in the interests of the operations and release teams to avoid having working software on a live or like-live environment because that makes their job far harder. Although of course the best way of making sure that the live and like-live release environments are properly maintained and fit-for-purpose is to actually use them.
 
-[Here]
+It's definitely in the interests of those people who are tasked with security for the project to put off having the project in live, or like-live as long as possible. Although the best way of testing the security of an application is to actually start to use is and test it in a small way as soon as *some* functionality is available.
 
-3449	
+There are so many interests that are orthogonal to the project, that, in some ways, it's surprising that *any* software makes it to release in live at all. This orthogonality, this pointing in the wrong direction, this disinterest in the project doing what it absolutely has to do to achieve its stated goals - produce working software - gets even worse when all the people who are involved in a project are working for different companies and different organisations.
+
+So what is to be done? To be totally honest, I think a lot of this is still to be worked out. I think that one of the most successful parts of Scrum is the idea of a Scrum Master - a role which is dedicated to facilitating the team and facilitating the Scrum Process. 
+Another thing that the Scrum Master (or seems to end up doing) is publicising and making visible the problems that the team are encountering that they can't deal with themselves. These are problems where it is obvious, that there are no local optimisations.
+
+Thinking about software development in terms of working software does lead you back to thinking about all of the methods and approaches that have been suggested by manufacturing in Japan. Visualise the work in progress. Limit the work in progress. Apply the ideas from Eli Goldratt's "The Goal" around identifying the constraint in the system and "breaking it" (i.e. stopping it being the constraint). But I think it is vitally important to understand this difference, that in manufacturing the value of the thing that is being manufactured is, to some degree understood.  Whereas, in software development, the value of what is being developed isn't understood.
+
+One insight that I gained from my colleague Marc Burgauer (who I think got it from Peter Drucker) is that management is about managing the work. The ultimate product of work in software development is value to the organisation, but because the value of the software to the organisation is unknown, the only way to assess that value is to get *something* working and then incrementally increase its functionality until its value to the organisation starts to make sense.
+
+Managing the work in software development means first of all working to improve visibility. If progress is going to be reported, it should be reported in terms of working software delivered, either to a live, or in very special circumstances, where making live software available even to a tiny number of users would be problematic, a like-live environment.
+
+Managing the work in software development means seeing the development process from the point of view of the work. Who does the work visit? What local processes does it undergo? Do those processes add value? Where does work wait a long time? Where is there a backlog of work?
+
+In my experience, Scrum is extremely effective in getting an iterative, incremental, empirical process going within an organisation and in creating pull on the organisation to produce requirements that can be turned into software, that could be valuable to the organisation. There are however ways in which Scrum is not so successful.  Scrum is, no so good at communicating back to the organisation, what is going on in the Scrum team and what progress is being made. Scrum also often fails to "push" working software into live environments where it has a chance of being valuable to the organisation.
+
+##What do "Agile Programmes" actually look like?
