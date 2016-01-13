@@ -151,3 +151,22 @@ Managing the work in software development means seeing the development process f
 In my experience, Scrum is extremely effective in getting an iterative, incremental, empirical process going within an organisation and in creating pull on the organisation to produce requirements that can be turned into software, that could be valuable to the organisation. There are however ways in which Scrum is not so successful.  Scrum is, no so good at communicating back to the organisation, what is going on in the Scrum team and what progress is being made. Scrum also often fails to "push" working software into live environments where it has a chance of being valuable to the organisation.
 
 ##What do "Agile Programmes" actually look like?
+When I run the Agile foundation training course, one of the questions that I ask them is how many Agile projects they have been on, A lot of the time, when people answer the question, they will say something like "some aspects of this project were Agile, but it wasn't *fully* Agile." Because of course, what they're talking about is Saddam Hussein's third category - what *actually* happens. There is even a name for this kind of methodology - "ScrumBut" as in "we're using Scrum but we're not having stand-ups" or "We're using Scrum but we don't have a product owner." Or "we're doing Scrum but we don't have showcases, or retrospectives, or working code at the end of every sprint."
+
+Scrum has a lot of useful ideas in it, and that is really, putting it mildly. Scrum it also has a lot of aspirations which are extremely difficult to satisfy. Having "potentially shippable code" at the end of every sprint is extremely difficult when there are a whole separate set of people who insist that that code goes through further non-functional testing. It is even more difficult when there is an insistence that this kind of testing has to be done before the code can be released, but there are no tests and no testers.
+
+Requirements need to be gathered and refined outside of the sprint.
+
+In my experience, in any real-life large-scale development project, it is perfectly possible to have *any* of the things that you might regard as necessary to the success of the project, and absolutely essential to software development be missing. For example, I've worked on several programmes where one or more of the following things were missing: developers, computers, network access, access to the building, access to a product owner, access to subject matter experts, access to a release environment, access to a development environment.
+
+And it's far from unusual to have programme managers who are telling you that the "aggressive" timescales for the programme have to be met whilst at the same time explaining that the performance testing environment won't be available until a week before the release date, because having it available earlier would be a "waste of money."
+
+It's hard to incorporate "ility" testing into your sprint if you have no idea what the "ility" tests will be, or who will be doing them.  It's difficult to claim that your code is "potentially shippable" if there is no environment on which to deploy it.
+
+It's also probably worth mentioning that,  not everybody working in these programmes is a "motivated individual". 
+
+[HERE]
+
+##Gorilla/Guerrilla
+
+4603
