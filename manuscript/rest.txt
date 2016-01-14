@@ -163,10 +163,16 @@ And it's far from unusual to have programme managers who are telling you that th
 
 It's hard to incorporate "ility" testing into your sprint if you have no idea what the "ility" tests will be, or who will be doing them.  It's difficult to claim that your code is "potentially shippable" if there is no environment on which to deploy it.
 
-It's also probably worth mentioning that,  not everybody working in these programmes is a "motivated individual". 
+It's also probably worth mentioning that not everybody working in these programmes is a "motivated individual". Or if they *are* motivated, they're not necessarily motivated by the thought of doing a good job, or making sure that the project succeeds by delivering working software which is valuable to the customer. 
 
-[HERE]
+On large projects, both commercial and in government, there can often be more than half a dozen companies who are supplying people.  It's very difficult to align the interests of all these companies, so that they're all focused on delivering working software. The clients in these kind of "multi-vendor" environments are often of the opinion that is a good thing that there are so many different suppliers in the same environment, and that it results in a "healthy competition." I must admit I've never seen it. If we accept that working software is threatening in some way to *everybody* who is involved in the process of developing it - as we discussed earlier, it's easy to see that if everybody involved in the process is working for different organisations, organisations that might lose their contracts if they get the blame for something going wrong, something that comes to light as a result of the inspection of working software, it soon becomes in *everyone's* interested for there to be no working software. This situation is especially bad if the threat is towards either the product owners or senior stakeholders. 
 
+Let's say that the senior stakeholders - the leaders (sociopaths) have overstated the value and understated the cost and time of a project to other senior people in the organisation. By demonstrating what can be made to work within a given timeframe, agile process is probably going to make it clear relatively quickly that these benefits won't be achieved for a particular cost, within a particular time.
+
+Obviously this is a threat to the leaders (sociopaths) who indicated that the benefits would be larger and the timeframes shorter. In such situations, the temptation to set the different suppliers against each other, to threaten that one supplier will be replace by one of the other suppliers unless they "pull their socks up". Is huge.
+
+What's perhaps not really understood about such situations is that they're not actually that threatening to the suppliers, in terms of the amount of business that is directed their way. It's relatively easy for any organisation to absorb the blame (it's very rare that taking the blame has to result in anything like a company or an individual being removed from a project) and promise that they will do better next time.  What is very difficult is for this kind of "blame dispersal mechanism" to operate alongside a focus on working software. In fact this kind of "blame theatre" is essentially a message from the leaders (sociopaths) to the suppliers saying "never embarrass me with working software, or realist projections of costs and timescales again." Nobody needs telling twice. Everybody agrees to avoid producing working software. Everybody gets paid. Nothing gets delivered.
+ 
 ##Gorilla/Guerrilla
 
-4603
+5034
