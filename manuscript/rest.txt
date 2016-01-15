@@ -173,6 +173,26 @@ Obviously this is a threat to the leaders (sociopaths) who indicated that the be
 
 What's perhaps not really understood about such situations is that they're not actually that threatening to the suppliers, in terms of the amount of business that is directed their way. It's relatively easy for any organisation to absorb the blame (it's very rare that taking the blame has to result in anything like a company or an individual being removed from a project) and promise that they will do better next time.  What is very difficult is for this kind of "blame dispersal mechanism" to operate alongside a focus on working software. In fact this kind of "blame theatre" is essentially a message from the leaders (sociopaths) to the suppliers saying "never embarrass me with working software, or realist projections of costs and timescales again." Nobody needs telling twice. Everybody agrees to avoid producing working software. Everybody gets paid. Nothing gets delivered.
  
-##Gorilla/Guerrilla
+##Blitzkrieg Guerrilla
+Because in large organisations it is so difficult to get working software "out there" in the wild, in live, and because the importance of having a role that manages the entire pipeline and makes sure that working software is produced is yet to be recognized as important, it might be necessary to take an alternative approach. If you're the leader of a development team, you might want to try to get *just* the software of your development team through to live and then present other teams with a fait accompli.
 
-5034
+Towards the end of the first world war, the German army started to develop tactics that avoided trench warfare and instead involved teams moving as fast as they could towards targets without coordination. Because the whole of the German army was, by that point in terrible trouble, these tactics, although they were successful, went mostly unnoticed.  But at the beginning of the second world war, these tactics were spectacularly successful, leading to a German victory over the French in a remarkably short space of time.
+
+Blitzkrieg challenges one of the most fundamental principles of warfare - that all parts of the front should move at once - synchronization.
+
+#Destructive Feedback
+When people talk about Agile, they sometimes talk about the importance of the empirical process, and they talk about the three pillars of the empirical process - transparency, inspection and adaptation.  Very often when people talk about empirical process they will end up waving their arms about and indicating the importance of iteration and feedback.
+
+In general, it's agreed that feedback is a very good thing and that complex cognitive tasks can't be achieved without out it.  But there seems to be an aspect of feedback that isn't adequately discussed - that is, situations in which feedback isn't constructive, but is *destructive*.
+
+It's relatively easy to come up with an example. Almost everybody has experienced the unpleasant sound of their own voice being echoed back to them  with a slight delay on a long distance phone call.  If you've done any public speaking at all, you'll know that a space that has a profound echo can be really off-putting, but that some spaces can have a very satisfying resonance.
+
+Imagine that it cost you £10,000 every time you opened your mouth. This isn't dissimilar to the set up with a lot of product owners (except the exact figure, if we counted in all the costs is probably higher).  When you first open your mouth, the feedback you get is terrible. The aspects of what you're saying that you think are *obvious* don't get picked up on at all, the aspects that you think are obscure and difficult are treated as if they're obvious and you're being condescending even to mention them.
+
+There are other ways that feedback can be destructive. Imagine if, as the words were coming out of your mouth, somebody was yelling at you that they were a stupid idea. Would that be good?
+
+You could think that what you're trying to create with a development team and its product owner is a "pleasing echo chamber" for the product owner. But most definitely can't be one that's instantly and brutally critical, nor one that is unthinkingly supportive and enthusiastic.
+
+In this way, maybe the echo chamber of a development team, or the echo change of an Agile programme has to be similar to that other instrument of power - the royal court.
+
+5521
