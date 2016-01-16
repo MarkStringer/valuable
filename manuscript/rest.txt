@@ -180,7 +180,7 @@ Towards the end of the first world war, the German army started to develop tacti
 
 Blitzkrieg challenges one of the most fundamental principles of warfare - that all parts of the front should move at once - synchronization.
 
-#Destructive Feedback
+##Destructive Feedback
 When people talk about Agile, they sometimes talk about the importance of the empirical process, and they talk about the three pillars of the empirical process - transparency, inspection and adaptation.  Very often when people talk about empirical process they will end up waving their arms about and indicating the importance of iteration and feedback.
 
 In general, it's agreed that feedback is a very good thing and that complex cognitive tasks can't be achieved without out it.  But there seems to be an aspect of feedback that isn't adequately discussed - that is, situations in which feedback isn't constructive, but is *destructive*.

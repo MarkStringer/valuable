@@ -1,5 +1,5 @@
-#The Good Enough Project Manager
-## Introduction
+#Working Software
+##Introduction
 This book is my attempt to write the kind of book about managing software development that I'd like to read. A book that acknowledges the messy, vague, emotional and exhausting nature of managing software development.  It came to me when I was sitting on a bus a few years ago that all the books about project management and managing software development talk about how to do it right. This seemed to be me to very unhelpful for the many people (including myself) who were faced with managing software development projects that weren't being managed correctly. A lot of what was wrong with those project was simply out of my control and were in trouble the moment that they started.
 
 Most projects start out with a vague idea of what the true requirements are.  They almost always have "aggressive timescales".  In fact, almost every project that I've ever worked on has been set up temporally, financially and contractually in a way that almost prohibits success. Almost. Most of these projects have ultimately ended up being late, over-budget and *valuable* for their customers.
