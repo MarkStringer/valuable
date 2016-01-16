@@ -81,7 +81,7 @@ In some ways, I wish I didn't have to say that you need a "black box" for your p
 
 Although there is actually a way of avoiding the need to look back, the need for a black box, the need for forensic software engineers, by focusing all the way through the project on working software.  There is a way to avoid the project crashing, and that's by focusing all the way through the project on improving the "Wreck of the idea" rather than focusing on the idea.
 
-#Working Software
+##Working Software
 >"Any sufficiently advanced technology is indistinguishable from magic"
 Arthur C. Clarke
 
@@ -194,5 +194,3 @@ There are other ways that feedback can be destructive. Imagine if, as the words 
 You could think that what you're trying to create with a development team and its product owner is a "pleasing echo chamber" for the product owner. But most definitely can't be one that's instantly and brutally critical, nor one that is unthinkingly supportive and enthusiastic.
 
 In this way, maybe the echo chamber of a development team, or the echo change of an Agile programme has to be similar to that other instrument of power - the royal court.
-
-5521
