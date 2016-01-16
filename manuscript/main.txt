@@ -15,16 +15,41 @@ questions.
 * The tendency of leaders (sociopaths) to try to motivate the work using the powerful psychological concept of commitment and consistency.
 * The planning fallacy
 * The uneven and opaque nature of the discovery of value.
-* The inherent uncertainty of working in a complex problem-solving environment.
+* The inherent uncertainty of Working in a complex problem-solving environment.
 
 ##Fata Morgana
+A mirage. That's what a fata morgana is - although it literally means "The Fairy Morgana" - the witch (who's a woman, so must obviously be bad) who is the enemy of the wizard Merlin (who, since he's a man, is obviously good).  But a fata morgana isn't just a trick of the light and a trick of the mind. Yes, in order for the mirage to appear the sun needs to be at a certain angle of incidence to the sea, the air above the see needs to be a certain temperature and humidity. And yes, a certain amount of what we see is also down to the mechanics of the human visual system. But in order for the fata morgana to really work, the desperate sailors on the ship who see the fata morgana really need to really need to see land.
+
+This is an actual, physical, fata morgana. But metaphysical fatae morganae are in fact much more common. Here are some examples.
+
+>A modern accounting system with an up-to-date UI that does exactly what the old one did - but integrates with all the systems that the old one didn't.
+
+>Forsaking all others, in sickness and in health, for richer, for poorer, 'til death us do part.
+
+><insert nationality here> jobs for <insert same nationality here> people.
+
+>A man on the moon
+
+>World peace
+
+>And end to hunger
+
+>A western trade route to India
+
+Leaders, salesmen and sociopaths craft fatae morganae, but that in itself isn't enough to get a project, or a programme off the ground and for leaders, salesmen and sociopaths to make a living. The project is the vehicle to get to the fatae morganae (or at least, that's what the leader, salesman, sociopath tells everybody). 
+
+But for the vehicle of the project to take off the leaders, salesmen, sociopaths have to do two more things: they have to understate the potential costs and risks and they have to overstate the potential benefits.
+
+Leaders, salesmen and sociopaths are really helped in their endeavour by basic features of the situation. For example, in general people really like the idea of fatae morganae. There is an awful lot of "folk wisdom" that encourages the idea that we should devote lots of energy and resources towards "goals" that a simple, clear and obviously nonsense. "Follow your dream", "think positively". I feel like a species traitor to the human race for even mentioning this.
+
+
 
 ##Head I Win, Tails You Lose
 
 ##Valuable
 I run this exercise at the beginning of almost every course that I run on Agile software development.  I'm not sure where it originated. I got it from my friend Matt Gould.  
 
-The exercise is really simple. Divide the trainees into teams.  Give them flip chart paper and marker pens.  On the first piece of flip chart paper, you ask them to draw a stick person. At this point, because we're very early on in the course and people are still being shy, someone normally says "ooh I can't draw" and I have to say "it doesn't have to be a *good* stick person.  Just *any stick person* will do." 
+The exercise is really simple. Divide the trainees into teams.  Give them flip chart paper and marker pens.  On the first piece of flip chart paper, ask them to draw a stick person. At this point, because we're very early on in the course and people are still being shy, someone normally says "ooh I can't draw" and I have to say "it doesn't have to be a *good* stick person.  Just *any stick person* will do." 
 
 Ask each team to give the stick person a smiley face. Then ask the team to write down as many words and phrases as they can which they associate with a *happy* project - with a project that's going well. This is a brainstorming type activity.  There are no "wrong" answers. There are some jokes along the "What's a happy project, I've never worked on one of those" lines. Then the trainees settle to the job and write a bunch of words and phrases.  Almost always, "On-time" and "to-budget" are the first things they write down. Try to get some more things written around the "happy" stick person by asking them what it feels like to work on a happy project, for example - if you've taken a long weekend away from a happy project, long enough to forget slightly that you're working on it, what does it *feel* like to come back to working on that project.  Also ask them to think about what they would notice about a flatmate or a loved one who was working on a "happy project." 
 
@@ -140,8 +165,11 @@ I think the reason that Scrum does this is because Scrum (based on bitter experi
 My colleague at Sopra Steria - Steve Forbes - suggests that there are four different areas of knowledge that are required by a product owner.
 
 **1.Knowledge of the Organisation**
+
 **2.Knowledge of the Technology**
+
 **3.Knowledge of the Business**
+
 **4.Knowledge of an Agile approach**
 
 One interesting question to ask about this list is "where does Digital fit?" Does Digital transcend all of these areas of knowledge? What is the organisations attitude to digital innovation in this are? What are the organisation's strengths, weaknesses, opportunities and threats in this area? How does what we're doing relate to the technology? What is the whole business doing in this area in relation to technology?
@@ -151,5 +179,3 @@ When looked at from this point of view, knowledge of Agile seems to be a minor p
 Which leads us onto another really interesting question: how, as "Agile coaches" or any consultants brought in to try to help software development projects succeed, might we improve the quality of what goes on in the Orient phase of every iteration of project? What I find fascinating about this is that the activities in support of this orientation seem to happen hardly *at all*. Individuals who are signed up as product owners might get sent on a one or two-day course, this course in generally about Agile and/or product ownership. Do they go on any course that orients them within their organisation? Maybe? Does anyone give them a potted history of business's history of performance when engaging in similar projects in the past? Very unlikely? Do they go any course that orients them to the technical issues related to the product that they are owning? Probably not.
 
 A final interesting question is what effect each of the stages has on the other stages. What is the effect of reducing the quality of orientation? Let's take that to the extreme? What if no orientation is done at all? If no orientation is done, then there is no need for observation, so poor quality orientation reduces the quality of observation, it also reduces the quality of decisions to zero (apart from the odd lucky guess). If there's no observation no orientation to inform the decision, there seems little point iterating.
- 
-4943
