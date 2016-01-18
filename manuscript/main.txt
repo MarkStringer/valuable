@@ -42,9 +42,23 @@ But for the vehicle of the project to take off the leaders, salesmen, sociopaths
 
 Leaders, salesmen and sociopaths are really helped in their endeavour by basic features of the situation. For example, in general people really like the idea of fatae morganae. There is an awful lot of "folk wisdom" that encourages the idea that we should devote lots of energy and resources towards "goals" that a simple, clear and obviously nonsense. "Follow your dream", "think positively". I feel like a species traitor to the human race for even mentioning this.
 
-
-
 ##Head I Win, Tails You Lose
+>"I started out to find the Indies and will continue until I have accomplished that mission, with the help of our Lord."
+
+*Christopher Columbus*
+
+If you're in the business of getting everybody signed on to a project by polishing a fata morgana and by hiding the real risks and costs of embarking on an endeavour, then it would seem that you're taking an enormous risk yourself. If like Christopher Columbus, you've persuaded one of the most powerful people in the world to give you a large amount of money - on the promise of a large amount of return - and you've also persuaded all of the people on the crew of the ship, not only to risk their livelihoods, but their actual *lives* as part of your get rich scheme, you might be worried that if it turns out that there *isn't* a western route to India, you're going to be in big trouble.
+
+This tends not to bother visionaries/leaders/sociopaths for two important reasons.
+
+1) they are instinctively risk-taking - they to some degree actually believe that the fata morgana is reachable
+2) they intuitively know that if things go badly wrong they will either be able to escape before things get too bad, or blame someone else.
+
+Of course, if the fata morgana *is* reached - or if something even more valuable than the fata morgana turns up on the way to the fata morgana, like maybe, America, the visionary/leader/sociopath will make damn sure that the credit and the profits go to them rather than any of the people who did the actual work. This is the crux of the "Heads I win, tails, you lose" principle.
+
+It may be that as you read this, you think that I'm making out being a leader/visionary/sociopath, who deceives their fellow men and women into taking disproportionate risks and encountering disproportionate costs in pursuit of a chimeric, mirage of a fata morgana to be a bad kind of person. By pointing out that in order to survive, this kind of person has to take credit, where possibly credit isn't due and avoid and transfer blame to where blame isn't due.  And you'd be right. There's a part of me that loathes this kind of dishonesty and disingenuousness. There's a part of me that really does not want to have to be dealing with people who behave like this on a day to day basis.  That really doesn't want to be engaging with people like this professionally.
+
+That was certainly my "going in" position when starting to think about the whole business of visionary/leader/sociopaths.
 
 ##Valuable
 I run this exercise at the beginning of almost every course that I run on Agile software development.  I'm not sure where it originated. I got it from my friend Matt Gould.  
