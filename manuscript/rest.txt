@@ -194,3 +194,22 @@ There are other ways that feedback can be destructive. Imagine if, as the words 
 You could think that what you're trying to create with a development team and its product owner is a "pleasing echo chamber" for the product owner. But most definitely can't be one that's instantly and brutally critical, nor one that is unthinkingly supportive and enthusiastic.
 
 In this way, maybe the echo chamber of a development team, or the echo change of an Agile programme has to be similar to that other instrument of power - the royal court.
+
+##What Would a Solution Look Like?
+>"there are more contexts than the one that we’re in—the one that we think is reality." *Alan C. Kay*
+
+This book has been mainly my attempt to create *insights* about the whole emotional business of developing software, to provide alternative ways of seeing what is going on in software development, in the language of Alan C. Kay, alternative contexts.
+
+I suppose the insight that I'm claiming is that software development is an interminable battle between a sociopaths, visionaries and leaders on one side and losers, workers and technologists on the other. It is also a battle between herrenmoral, which values ends and sklaven morral which values means. It's also a battle between beautiful dreams (that can never actual deliver) and ugly reality (which sometimes might).  Possibly it's also a battle between the logic of the unconscious, where, literally, nothing is impossible, and the logic of physics, where even the things that are possible, cost more than you expect and take longer than you want and still have performance problems.  
+
+The battle is interminable because without the attractive dreams of the sociopaths, nothing would get started, and funded and without the actual practical know-how of the loser, worker, technologists, nothing would ever actually get made.
+ 
+Those are the insights of this book.
+
+But insights aren't solutions. I'm not so naive as to think that that there any straight-forward solutions. But I think there might be a path towards solutions from insights - from seeing the world of developing working software from a different point of view - or from several differ points of view. Perhaps by seeing the problem of software development from a different point of view, by thinking about it seriously from this different point of view, we might be able to spy *possible* solutions. That in itself wouldn't be enough.  It wouldn't be enough to understand a solution, we would then have to implement that solution, we would have to *act* differently than we are currently in software development projects.
+
+The idea here is that there is a path from problem, insight, to solution, to action which delivers the solution. But is interesting to reflect that the Agile methodologies that have had the most uptake - Scrum, XP, Kanban don't fill in all the blanks from problem to solution. They just pretty much say "Do this." And leave it to the imagination of the poor benighted organisation or team, who's thinking of using these methods, to imagine that it will solve all the problems that they have with software development.
+
+Maybe there's a two by two matrix. With a y axis that goes from low risk/cost to high/risk cost (this is to the organisation) and an x axis that goes low value, high value (again to the organisation). Practices like focusing on working software, responding to change, collaboration between the customer and focusing on co-location and communication (all four of the Agile values) push projects from top-left to bottom right (or bottom left).
+
+[Here] 
