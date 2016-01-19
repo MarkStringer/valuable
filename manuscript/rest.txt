@@ -196,7 +196,7 @@ You could think that what you're trying to create with a development team and it
 In this way, maybe the echo chamber of a development team, or the echo change of an Agile programme has to be similar to that other instrument of power - the royal court.
 
 ##What Would a Solution Look Like?
->"there are more contexts than the one that we’re in—the one that we think is reality." *Alan C. Kay*
+>"there are more contexts than the one that we're in - the one that we think is reality." *Alan C. Kay*
 
 This book has been mainly my attempt to create *insights* about the whole emotional business of developing software, to provide alternative ways of seeing what is going on in software development, in the language of Alan C. Kay, alternative contexts.
 
