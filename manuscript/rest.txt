@@ -212,4 +212,20 @@ The idea here is that there is a path from problem, insight, to solution, to act
 
 Maybe there's a two by two matrix. With a y axis that goes from low risk/cost to high/risk cost (this is to the organisation) and an x axis that goes low value, high value (again to the organisation). Practices like focusing on working software, responding to change, collaboration between the customer and focusing on co-location and communication (all four of the Agile values) push projects from top-left to bottom right (or bottom left).
 
-[Here] 
+##Blitz Code - never mind 11...
+
+Blitz Code is inspired by the concept (although not the ethics, nor the politics) of the Blitzkrieg strategies exhibited by the German army at the beginning of the second world war. Blitzkrieg was about using a technological advance which had been around for 20 years - the tank - in the way that it should be used to maximum effect. I believe that software development has something similar to the tank in its midst - the DevOps-enable XP Scrum team - the DXST. Extreme programming has always advocated a set of engineering practices.
+
+###Blitz Code's Sine Qua Non(s)
+There are some things that absolutely have to be in place before it's even worth thinking about starting development with a Blitz Code team.
+####A Product Owner Pair (POP)
+Scrum advocates a product owner a single representative of the organisation who is empowered to make decisions about what goes in the product. But most people who've worked with a product owner know that it's almost impossible to find all the skills that are needed by a product owner in one person. There are at least four different sets of skills that are required by a product owner: domain knowledge, knowledge of the organisation, knowledge of technology and knowledge of Agile. Most Scrum projects, if they're *lucky* will get a product owner with knowledge of one of the first two - either a subject matter expert, or someone who had knowledge of the organisation.
+####The Product Owner Pair sits with the team
+We've got a communication problem. That's one way of thinking of software development - it's a series of communication problems. Scrum (and Blitz Code's) solution to the communication problem is to put everybody within overhearing distance of each other.
+####The team have access to a like (or like live environment)
+####The team have access to whatever software, hardware and virtual and physical environments that they need
+It's embarrassing to have to mention this.  But unfortunately, it still needs mentioning.  If you want a high performance software development team, they should be able to put white boards on every surface that they think should have a whiteboard. If you want a high performance software development team, they should have network access (as one UI Developers was forced to explain it on one project I worked one "to make internetz, need internetz").
+
+They also need computers, a kitchen and a functioning toilet (don't ask).
+####There is an owner of DevOps, UI and Non-functional testing in the team
+
