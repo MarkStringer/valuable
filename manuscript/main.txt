@@ -1,4 +1,20 @@
 #Working Software
+
+##A Preface to Version 0.1
+Years ago the BBC used to have a fantastic late night arts programme.  It was the kind of fantastic, eclectic publicly funded cornucopia of culture and civilisation that should never be allowed in a proper rabid capitalist society, and now, isn't.  Every night there was something on it that I'd never heard of, or something that I'd never heard of but was happy to know more about.  I remember one night there was an episode devoted to a writer's workshop with Joseph Heller.  The usual gaggle of English literature students, I think it was in Cambridge, were gathered around, asking the great man the usual questions that people who dream of being a write ask about who to be a writer.
+
+Heller's main piece of advice was to not write a book. His advice was rather to write an *outline* for a book and the first and maybe another sample chapter.  His rationale was that publishers don't have time to read books, especially from unsolicited authors. They don't even from writers that they *like.*  But if you grabbed them in the first few pages, and then the like the outline, they might ask you for more.
+
+And of course - a novel might take you a couple of years, but an introductory chapter and an outline, you could probably manage in a month.
+
+Version 0.1 of this book will be published using the LeanPub platform. This is because I passionately believe in the power of an iterative approach to doing things.  I believe in the possibility of doing things using an iterative approach to achieve things that would otherwise simply not be possible.
+
+Having put about six months of effort into developing a three day "introduction to Agile course." I have an uneasy awareness, that most things take a lot longer than you expect, even to get to the beginning of the end, five or six times as long, in my own experience.
+
+What I want Version 0.1 of this book to be is a coherent "business novella". Which sets out in clear, readable prose a very different way of thinking about the whole business of how to get to working software. And has some clear practical suggestions for what to do to give yourself, your team or your organisation a chance of getting working software that will succeed. Software that not only works, but works and delivers value for your organisation.
+
+And then of course, I want there to be a version 0.2 of the book that builds on the parts that work (without breaking them) and removes, refactors or replaces the parts that don't work. 
+
 ##Introduction
 This book is my attempt to write the kind of book about managing software development that I'd like to read. A book that acknowledges the messy, vague, emotional and exhausting nature of managing software development.  It came to me when I was sitting on a bus a few years ago that all the books about project management and managing software development talk about how to do it right. This seemed to be me to very unhelpful for the many people (including myself) who were faced with managing software development projects that weren't being managed correctly. A lot of what was wrong with those project was simply out of my control and were in trouble the moment that they started.
 
