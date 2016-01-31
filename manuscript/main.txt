@@ -1,31 +1,29 @@
 #Working Software
 
 ##A Preface to Version 0.1
-Years ago the BBC used to have a fantastic late night arts programme.  It was the kind of fantastic, eclectic publicly funded cornucopia of culture and civilisation that should never be allowed in a proper rabid capitalist society, and now, isn't.  Every night there was something on it that I'd never heard of, or something that I'd never heard of but was happy to know more about.  I remember one night there was an episode devoted to a writer's workshop with Joseph Heller.  The usual gaggle of English literature students, I think it was in Cambridge, were gathered around, asking the great man the usual questions that people who dream of being a write ask about who to be a writer.
+Years ago the BBC used to have a late night arts programme.  It was the kind of eclectic, publicly-funded cornucopia of culture and civilisation that should never be allowed in a rabid capitalist society, and now, of course, isn't.  
 
-Heller's main piece of advice was to not write a book. His advice was rather to write an *outline* for a book and the first and maybe another sample chapter.  His rationale was that publishers don't have time to read books, especially from unsolicited authors. They don't even from writers that they *like.*  But if you grabbed them in the first few pages, and then the like the outline, they might ask you for more.
+I remember one night there was an episode devoted to a masterclass with Joseph Heller. Heller's main piece of advice was this: don't write a book. His advice was rather to write an *outline* for a book and the first chapter.  His rationale was that publishers don't have time to read books unsolicited authors. They don't even read whole books from famous writers.  But if you grabbed them in the first few pages, and then they like the outline, they might just ask you for more.
 
-And of course - a novel might take you a couple of years, but an introductory chapter and an outline, you could probably manage in a month.
+A novel might take you a couple of years, but an introductory chapter, another sample chapter and an outline, you could probably manage in a month.
 
-Version 0.1 of this book will be published using the LeanPub platform. This is because I passionately believe in the power of an iterative approach to doing things.  I believe in the possibility of doing things using an iterative approach to achieve things that would otherwise simply not be possible.
-
-Having put about six months of effort into developing a three day "introduction to Agile course." I have an uneasy awareness, that most things take a lot longer than you expect, even to get to the beginning of the end, five or six times as long, in my own experience.
-
-What I want Version 0.1 of this book to be is a coherent "business novella". Which sets out in clear, readable prose a very different way of thinking about the whole business of how to get to working software. And has some clear practical suggestions for what to do to give yourself, your team or your organisation a chance of getting working software that will succeed. Software that not only works, but works and delivers value for your organisation.
-
-And then of course, I want there to be a version 0.2 of the book that builds on the parts that work (without breaking them) and removes, refactors or replaces the parts that don't work. 
+I believe in the power of an iterative approach to doing things.  I believe in the possibility of doing things using an iterative approach to achieve things that would otherwise simply not be possible. 
 
 ##Introduction
-This book is my attempt to write the kind of book about managing software development that I'd like to read. A book that acknowledges the messy, vague, emotional and exhausting nature of managing software development.  It came to me when I was sitting on a bus a few years ago that all the books about project management and managing software development talk about how to do it right. This seemed to be me to very unhelpful for the many people (including myself) who were faced with managing software development projects that weren't being managed correctly. A lot of what was wrong with those project was simply out of my control and were in trouble the moment that they started.
+Most projects start out with a vague idea of what their true requirements are.  They almost always have "aggressive timescales".  In fact, almost every project that I've ever worked on has been set up temporally, financially and contractually in a way that almost prohibits success. Almost. Most of these projects have ultimately ended up being late, over-budget and *valuable* for their customers.
 
-Most projects start out with a vague idea of what the true requirements are.  They almost always have "aggressive timescales".  In fact, almost every project that I've ever worked on has been set up temporally, financially and contractually in a way that almost prohibits success. Almost. Most of these projects have ultimately ended up being late, over-budget and *valuable* for their customers.
+This book is my attempt to write the kind of book about managing software development that I'd like to read. A book that acknowledges the messy, vague, emotional and exhausting nature of managing software development.  A few years ago, it came to me when I was sitting on a bus that all the books about project management and managing software development that I'd  read talk about how to do software development and project management right. This didn't strike me as terrifically helpful considering that so many people (including myself) were faced with managing software development projects that weren't being managed correctly. A lot of what was wrong with those project was simply out of my control. Many of these projects were in trouble the moment that they started for reasons that were going to be very difficult to fix.
 
-This book is an attempt to get away from slick slogans, deceptive line-and-box diagrams and simple solutions. It's an attempt to demonstrate some of the complexity of managing software development, without being overly complex itself. The hope is by pointing out some of these complexities I can answer some of the questions that many project managers, Scrum Masters, delivery managers and Agile coaches I'm sure, ask themselves in the darkest quietest hours of the night, namely: "why is managing software development so hard?" and "What can I do about it?"
+This book is an attempt to get away from slick slogans, deceptive line-and-box diagrams and simple-sounding solutions. It's an attempt to demonstrate some of the complexity of managing software development, without being overly complex itself. The hope is that by pointing out some of these complexities I can answer some of the questions that many project managers, Scrum Masters, delivery managers and Agile coaches I'm sure, ask themselves in the darkest quietest hours of the night, namely: "why is managing software development so hard?" and "What can I do about it?"
 
 Fortunately, I think there are pretty good answers to both of these
 questions.
 
 ###Why is Managing Software Development So Hard?
+Why is managing software development so hard? Because the structure of a project is fundamentally in conflict. A software development project is a conflict at least between two moralities (Herrenmoral and Sklavenmorral). two logics (physical logic and unconscious logic). It's  also a conflict between something that doesn't exist: the dream or the vision and something that does (or doesn't exist): the reality.
+
+Understanding the nature of these conflicts, as well as understanding that for fundamental reasons these conflicts are unresolvable is a first step to understanding why managing software development is so hard and why so many things that are said about managing software development projects simultaneously make perfect sense and no sense at all.
+
 * The need for a Fata Morgana and the hiding hand as a way of motivating projects.
 * The need for leaders (sociopaths) who are willing to hide risks and take chances to work with doers (losers) who actual do the work.
 * The tendency of leaders (sociopaths) to try to motivate the work using the powerful psychological concept of commitment and consistency.
@@ -34,7 +32,7 @@ questions.
 * The inherent uncertainty of Working in a complex problem-solving environment.
 
 ##Fata Morgana
-A mirage. That's what a fata morgana is - although it literally means "The Fairy Morgana" - the witch (who's a woman, so must obviously be bad) who is the enemy of the wizard Merlin (who, since he's a man, is obviously good).  But a fata morgana isn't just a trick of the light and a trick of the mind. Yes, in order for the mirage to appear the sun needs to be at a certain angle of incidence to the sea, the air above the see needs to be a certain temperature and humidity. And yes, a certain amount of what we see is also down to the mechanics of the human visual system. But in order for the fata morgana to really work, the desperate sailors on the ship who see the fata morgana really need to really need to see land.
+A mirage. That's what a fata morgana is - although it literally means "The Fairy Morgana" - the witch who is the enemy of the wizard Merlin.  But a fata morgana isn't just a trick of the light and a trick of the mind. Yes, in order for the mirage to appear the sun needs to be at a certain angle of incidence to the sea, the air above the see needs to be a certain temperature and humidity. And yes, a certain amount of what we see is also down to the mechanics of the human visual system. But in order for the fata morgana to really work, the desperate sailors on the ship who see the fata morgana really need to really need to see land.
 
 This is an actual, physical, fata morgana. But metaphysical fatae morganae are in fact much more common. Here are some examples.
 
