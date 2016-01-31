@@ -20,9 +20,9 @@ Fortunately, I think there are pretty good answers to both of these
 questions.
 
 ###Why is Managing Software Development So Hard?
-Why is managing software development so hard? Because the structure of a project is fundamentally in conflict. A software development project is a conflict at least between two moralities (Herrenmoral and Sklavenmorral). two logics (physical logic and unconscious logic). It's  also a conflict between something that doesn't exist: the dream or the vision and something that does (or doesn't exist): the reality.
+Why is managing software development so hard? Because the structure of a project is fundamentally in conflict. A software development project is a conflict at least between two moralities (Herrenmoral and Sklavenmorral). two logics (physical logic and unconscious logic). It's  also a conflict between something that can never exist: the dream; and something that can exist:  the reality.
 
-Understanding the nature of these conflicts, as well as understanding that for fundamental reasons these conflicts are unresolvable is a first step to understanding why managing software development is so hard and why so many things that are said about managing software development projects simultaneously make perfect sense and no sense at all.
+Understanding the nature of these conflicts, as well as understanding that, for fundamental reasons, these conflicts are unresolvable is a first step to understanding why managing software development is so hard and why so many things that are said about managing software development projects simultaneously make perfect sense and no sense at all.
 
 * The need for a Fata Morgana and the hiding hand as a way of motivating projects.
 * The need for leaders (sociopaths) who are willing to hide risks and take chances to work with doers (losers) who actual do the work.
@@ -86,7 +86,6 @@ Ask the same people to draw another stick person with a sad face. Ask them to wr
 What phrases do most people associate with a successful project? "On-time and to-budget." What phrases do most people associate with an unsuccessful project "Late and over-budget." Is this really a surprise? What might be a surprise is what's missing from these descriptions of successful and unsuccessful projects. Almost never is there any mention of the project being valuable, almost never is there any mention of a customer! Sometimes, just occasionally, there's a mention of money - not in terms of budget, but it terms of *making money.* 
 
 I don't think money is actually the only reason why a project might turn out to be valuable. I've seen projects for publishers, government departments and curiously, even banks, that were successful but were delivering other kinds of value - salvation from loss of face, speedier justice and a more effective system of fraud detection. But money isn't a bad thing to see on the posters that are produced for this activity because mentioning money at least indicates that the business we're about (or should be about) when we're working on projects or managing projects is delivering some kind of value.
----
 
 ##Commitment and Consistency
 I was working as a Scrum Master (I want to say "in a cocktail bar", but that much isn't true) in a start-up called Grill.  It was a good company to work for. It trusted its employees. It had no set working hours. It had no place that you had to be working from.  The directors empowered the employees to spend the money they needed (and claim it back as expenses) to get the job done.  They were very enthusiastic about Agile, and that was one of the reasons that they'd bought me in, they'd tried to run something like Scrum and then realised they needed a Scrum Master who knew who'd done in already.  
